@@ -2,6 +2,7 @@
 - 👀 I'm a BSc. Data Science Student
 - 🌱 Aspiring Data Scientist | Currently working on Data Analytics Projects
 - 📫 Reach out to me on ananditachatterjee6@gmail.com
+- 👉🏻 Do check out my personal website: https://anandita.onrender.com
 - 😄 Pronouns: she/her
 
 <!---
