@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anandita
-- 👀 I'm a BSc. Data Science Student
-- 🌱 Aspiring Data Scientist | Currently working on Data Analytics Projects
-- 📫 Reach out to me on ananditachatterjee6@gmail.com
+- 👀 BSc. Data Science Student
+- 🌱 Data and AI Analytics | Currently working as a Data Analyst Intern
+- 📫 Reach out to me on ananditachatterjee6@gmail.com for professional purpose.
 - 👉🏻 Do check out my personal website: https://anandita.onrender.com
 - 😄 Pronouns: she/her
 
